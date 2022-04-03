@@ -1,0 +1,5 @@
+alias ll='ls-alS'
+alias прополоти='less'
+alias засіяти='mkdir'
+alias полити='touch'
+alias зібрати='rm'
